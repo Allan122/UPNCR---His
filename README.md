@@ -1,6 +1,6 @@
 # UPNCR---His
 
-# Themes in Indian History
+# 12th STD - Themes in Indian History
 
 ## 1. Topic - Bricks, Bread and Bones (The Harappan Civilisation)
 
