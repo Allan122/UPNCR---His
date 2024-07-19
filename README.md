@@ -30,8 +30,8 @@
 - Settlements were generally small, and there were virtually no large buildings.
 - It appears that there was a break between the Early Harappan and the Harappan Civilisation, evident from large-scale burning at some sites, as well as the abandonment of certain settlements.
 
-- Harappans ate a wide range of plant and animal products, including fish. Bones of fish and fowl are found.
-- Archeologists have been able to reconstruct dietary practices from finds of charred grains and seeds.
+ - Harappans ate a wide range of plant and animal products, including fish. Bones of fish and fowl are found.
+ - Archeologists have been able to reconstruct dietary practices from finds of charred grains and seeds.
   - Grains found at Harappan sites include wheat, barley, lentil, chickpea, and sesame.
   - Millets are found at sites in Gujarat.
   - Rice is rare.
