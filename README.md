@@ -25,3 +25,4 @@
 # Settlements of Early and Mature Harappan Cultures
 **Sind and Cholistan** (The desert area of Pakistan bordering the Thar Desert.)
 
+There were several archeological cultures in the region prior to the Mature Harappan. These cultures were associated with distinctive pottery, evidence of agriculture and pastoralism, and some crafts.
