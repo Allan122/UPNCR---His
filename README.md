@@ -40,4 +40,5 @@
   - Bones of wild species such as boar, deer, and gharial are also found.
   - Not know whether the Harappans hunted these animals themselves or obtained meat from other hunting communities. 
 
-
+# Agricultural Technologies
+- While the prevalence of agriculture is indicated by finds of gains.
