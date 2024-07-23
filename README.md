@@ -252,7 +252,8 @@ In summary, while citadels in Harappan cities shared some common features with s
 - The uniqueness of the structure, as well as the context in which it was found (the citadel, with several distinctive buildings), has led scholars to suggest that it was meant for some kind of a special ritual bath.
 
 ---
-### Which of the architectural features of Mohenjodaro indicate Planning?
+
+## Which of the architectural features of Mohenjodaro indicate Planning?
 The architectural features of Mohenjo-Daro that indicate advanced urban planning include the following:
 
 ### Grid Layout
@@ -283,5 +284,6 @@ The architectural features of Mohenjo-Daro that indicate advanced urban planning
 These architectural features collectively demonstrate that Mohenjo-Daro was a well-planned architecture.
 
 ---
+
 
 
