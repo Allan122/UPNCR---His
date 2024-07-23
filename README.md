@@ -99,3 +99,4 @@ By combining these various lines of evidence, archaeologists can build a compreh
 - Mohenjodaro is the most well-known site. The first site to be discovered was Harappa.
 - The settlement is divided into two sections, one smaller but higher and the other much larger but lower.
 - Archeologists designate these as the Citadel and the lower town respectively.
+- Citadel buildings were constructed on mud brick platforms. It was walled and it means that it was seperated from the Lower Town.
