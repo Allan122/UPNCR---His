@@ -285,5 +285,26 @@ These architectural features collectively demonstrate that Mohenjo-Daro was a we
 
 ---
 
+## Tracking Social Differences
+# Burials
+- Archeologists use certain strategies to find out whether there were social or economic differences amongst people living within a particular within a particular culture. These include studying burials.
+- While Egyptians performed royal burials while in Harappan sites dead were generally laid in pits. 
+- Some graves contain pottery and ornaments, perhaps indicating a belief that these could be used in the afterlife.
+- Jewellery has been found in burials of both men and women.
+- An ornament consisting of three shell rings, a jasper (a kind of semi-precious stone) bead and hundreds of micro-beads was found near the skull of a male.
+- In some instances the dead were buried with copper mirrors.
+- Harappans did not believe in precious things with dead.
 
+# Luxuries
+- The first category include objects of daily use made fairly easily out of ordinary materials such as stone or clay.
+- These includes querns, pottery, needles, flesh-rubbers (body scrubbers), etc and are found usually throughout settlements.
+- Archaeologists assume objects were luxuries if they are rare or made from costly, non-local materials or with complicated technologies.
+- Thus, little pots of faience (a material made of ground sand or silica mixed with color and a gum and then fired) were probably considered precious because they were difficult to make.
+- They find that rare objects made of valuable materials are generally concentrated in large settlements like Mohenjodaro and Harappa and are rarely found in the smaller settlements.
+- Miniature pots of faience, perhaps used as perfume bottles, are found mostly in Mohenjodaro and Harappa, and there are none from small settlements like Kalibangan.
+- Gold was rare. All the golds found at harappan sites was recovered from hoards.
 
+## What are Hoards?
+Hoards are objects kept carefully by people, often inside containers such as pots. Such hoards can be of jewellery or metal objects saved for reuse by metalworkers.
+
+# What are the modes of disposal of the dead prevalent at present? To what extent do these represent social differences?
