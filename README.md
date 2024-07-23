@@ -304,7 +304,108 @@ These architectural features collectively demonstrate that Mohenjo-Daro was a we
 - Miniature pots of faience, perhaps used as perfume bottles, are found mostly in Mohenjodaro and Harappa, and there are none from small settlements like Kalibangan.
 - Gold was rare. All the golds found at harappan sites was recovered from hoards.
 
+---
+
 ## What are Hoards?
 Hoards are objects kept carefully by people, often inside containers such as pots. Such hoards can be of jewellery or metal objects saved for reuse by metalworkers.
 
-# What are the modes of disposal of the dead prevalent at present? To what extent do these represent social differences?
+---
+
+## What are the modes of disposal of the dead prevalent at present? To what extent do these represent social differences?
+The modes of disposal of the dead prevalent at present vary widely across cultures and religions, each reflecting specific beliefs, traditions, and social practices. The main modes include burial, cremation, entombment, and other less common methods. These practices can represent social differences in terms of religious affiliation, cultural background, economic status, and personal preferences.
+
+### Modes of Disposal of the Dead
+
+1. **Burial**:
+   - **Traditional Burial**: Involves placing the body in a grave, typically within a cemetery. This method is common in many cultures and religions, including Christianity, Islam, and Judaism.
+   - **Green Burial**: An eco-friendly option where the body is buried without embalming chemicals and in biodegradable materials. This practice is growing in popularity among those concerned with environmental impact.
+
+2. **Cremation**:
+   - **Traditional Cremation**: The body is incinerated, and the ashes are often kept in an urn, scattered, or buried. This method is prevalent in Hinduism and is becoming more common in many Western societies due to its lower cost and space requirements.
+   - **Alkaline Hydrolysis (Resomation)**: A water-based process that breaks down the body using alkaline chemicals. It is considered a more environmentally friendly alternative to traditional cremation.
+
+3. **Entombment**:
+   - **Above-ground Entombment**: Bodies are placed in mausoleums or crypts. This method is often used in certain Christian traditions and can signify higher social status due to the cost of construction and maintenance.
+   - **Catacombs**: Underground burial sites used historically in various cultures, including the Roman catacombs.
+
+4. **Natural Methods**:
+   - **Sky Burial**: Practiced in Tibetan Buddhism, where the body is left exposed to the elements and scavenging birds.
+   - **Sea Burial**: Involves placing the body or cremated remains in the sea. This is practiced by some coastal communities and the naval military.
+
+5. **Donation to Science**:
+   - **Body Donation**: Individuals may choose to donate their bodies to medical science for research and education. After use, the remains are often cremated and returned to the family.
+
+### Representation of Social Differences
+
+1. **Religious and Cultural Affiliation**:
+   - The mode of disposal is often dictated by religious beliefs. For example, cremation is integral to Hinduism, while burial is predominant in Christianity and Islam.
+   - Cultural traditions also play a significant role, influencing specific rituals and practices associated with death.
+
+2. **Economic Status**:
+   - Economic considerations can influence the choice of disposal method. Traditional burials, especially in urban areas with limited cemetery space, can be expensive due to the cost of land and maintenance.
+   - Cremation is often seen as a more affordable option. However, high-end urns and memorial services can also be costly.
+   - Mausoleums and crypts are typically more expensive, reflecting higher social and economic status.
+
+3. **Environmental Concerns**:
+   - Growing environmental awareness has led to an increase in eco-friendly disposal methods such as green burials and alkaline hydrolysis. These choices can reflect a person's environmental values and social consciousness.
+
+4. **Personal Preference and Modern Trends**:
+   - In some societies, personal preference plays a significant role, with individuals specifying their desired method of disposal in wills or pre-planned funeral arrangements.
+   - Modern trends and innovations, such as biodegradable urns that grow into trees or space burials, cater to niche preferences and can reflect social diversity.
+
+5. **Legal and Societal Norms**:
+   - Legal regulations and societal norms in different regions can influence the available options and their acceptance within communities.
+
+In summary, the modes of disposal of the dead at present are diverse and reflect a wide range of social differences based on religious beliefs, cultural practices, economic status, environmental values, and personal preferences. These practices highlight the complex interplay between tradition, modernity, and individual choice in contemporary societies.
+
+---
+
+# Craft Production
+- Chanhudaro (Pakisthan) This is a tiny settlement almost exclusively devoted to craft productions, including bead-making, shell-cutting, metal-working, seal-making and weight-making.
+- The variety of materials used to make beads are remarkable: Stones like carnelian (red color), jasper, crystal, quartz, and steatite.
+- Metals like copper, bronze, shell, faience, terracotta, burnt clay, and gold.
+- Some beads were made up of two or more stones, cemented together, some of stone with gold caps.
+- The shapes were numerous disc-shaped, cylindrical, spherical, barrel-shaped, segmented.
+- Some were decorated by incising or painting.
+- Techniques were different for making beads. Steatite, a very soft stone, was easily worked.
+- Some beads were moulded out of a paste made with steatite powder. This permited making a variety of shapes, unlike the geometrical forms made out of harder stones.
+- Archeologists experiments have revealed that the red color of carnelian was obtained by firing the yellowish raw material and beads at various stages of production.
+- Nodules were chipped into rough shapes, and then finely flaked into the final form. Grinding, polishing, and drilling completed the process. Specialized drills were found at Chanhudaro, Lothal, and Dholavira.
+- Nageshwar and Balakot are both settlements near the coast. These are specialized centers for making shell objects - including bangles, ladles, and inlay which were taken to other settlements.
+- Finished products of beads from Chanhudaro and Lothal were taken to the large urban centres such as Mohenjodaro and Harappa.
+
+# Identifying centres of production
+- In order to identify centers of craft production: Archeologists usually look for the following: 
+- raw material such as stone nodules, whole shells, copper ore, tools, unfinished objects, rejects and waste material.
+- Waste is one of the best indicators of craft work.
+- Sometimes, large waste pieces were used up to make smaller objects, but minuscule bits were usually left in the work area.
+- These traces suggest that apart from small, specialised centers, craft production was also undertaken in large cities such as Mohenjodaro and Harappa.
+
+---
+
+## Should the stone artifacts illustrated in the chapter Harappan Civilization be considered utilitarian objects or as luxuries? Are there any that fall into both categories?
+Stone artifacts from the Harappan Civilization can be considered both utilitarian objects and luxuries, depending on their type, craftsmanship, and context in which they were found. 
+
+### Utilitarian Objects
+Many stone artifacts from the Harappan Civilization were primarily utilitarian, serving practical purposes in daily life. Examples include:
+
+- **Tools and Implements**: Stone tools such as blades, chisels, and hammers were used for various tasks like cutting, carving, and construction. These tools were essential for agriculture, crafting, and building.
+- **Grinding Stones**: Used for processing grains and other food items, grinding stones were common household items.
+
+### Luxuries
+Other stone artifacts were likely considered luxury items, often reflecting higher craftsmanship and artistic value:
+
+- **Ornamental Objects**: Beads, seals, and other decorative items made from semi-precious stones like carnelian, lapis lazuli, and agate. These items were often finely crafted and likely served as personal adornments or status symbols.
+- **Figurines and Sculptures**: Carved stone figurines and sculptures, which required significant skill and effort to produce, were likely valued as luxury items and possibly used in religious or ceremonial contexts.
+
+### Dual-Purpose Artifacts
+Some stone artifacts might fall into both utilitarian and luxury categories, depending on their usage and context:
+
+- **Seals**: While primarily utilitarian for trade and administrative purposes, Harappan seals were also intricately carved with animal motifs and inscriptions, indicating they could also be considered luxury items.
+- **Decorated Tools**: Certain tools, such as elaborately carved stone axes or knives, might have been functional but also held aesthetic value, making them items of prestige.
+
+In conclusion, the categorization of Harappan stone artifacts as utilitarian or luxury items depends on their function, craftsmanship, and the context in which they were used. Many artifacts served practical purposes, while others were valued for their artistic and decorative qualities, with some bridging both categories.
+
+---
+
+# Strategies for producing materials
