@@ -437,6 +437,134 @@ In conclusion, the categorization of Harappan stone artifacts as utilitarian or 
 - Mesopotamian texts refer to Meluhha as a land of seafarers. We can find depictions of ships and boats on seals.
 
 # Seals, Script, Weights
+- Seals and sealings were used to facilitate long-distance communication.
+- Seal is an impression that is usually used to identify the identity of the sender.
 
+# An enigmatic script
+- Harappans seals usually have a line of writing, probably containing the name and title of the owner.
+- Scholars have also suggested that the motif (generally an animal) conveyed a meaning to those who could not read.
+- Most inscriptions are short, the longest containing about 26 signs. The script remains undesciphered to date. It was not alphabetical(Where each sign has vowel or a consonant).
+- It has too many signs somewhere between 375 and 400.
+- It was apparent that script was written **from right to left** as some on the left.
+- Variety of objects on which writting has been found:
+Seals, copper tools, rim of jars, copper and teracotta tablets, jewelry, bone rods, even an ancient signboard.
 
- 
+---
+
+## Is literacy widespread during Harappan period?
+The question of literacy in the Harappan period is complex and somewhat contentious due to the current state of evidence. Here's a detailed look at the issue:
+
+### Evidence for Literacy in the Harappan Period
+
+1. **Inscriptions and Seals**:
+   - The Harappan script appears on a variety of objects, including seals, pottery, tools, and tablets.
+   - Over 4,000 inscribed objects have been discovered, with the inscriptions typically comprising short sequences of symbols.
+   - The seals, often used for trade and administrative purposes, suggest a system of record-keeping and communication.
+
+2. **Undeciphered Script**:
+   - Despite the numerous inscriptions, the Harappan script remains undeciphered. This makes it difficult to determine the exact nature of literacy in the civilization.
+   - The script's brevity and the lack of longer texts complicate efforts to understand its structure and usage.
+
+3. **Distribution of Inscriptions**:
+   - Inscriptions have been found across a wide geographical area, from the major urban centers like Mohenjo-Daro and Harappa to smaller settlements.
+   - This widespread distribution indicates that the script was known and used throughout the civilization.
+
+### Interpretations of Literacy
+
+1. **Administrative and Commercial Literacy**:
+   - The presence of seals and other inscribed objects suggests that literacy was likely important for administrative and commercial purposes.
+   - Merchants, administrators, and craftsmen might have used the script to mark goods, record transactions, and manage trade.
+
+2. **Elite Literacy**:
+   - Some scholars argue that literacy might have been restricted to a small elite class, such as priests, officials, or merchants, rather than being widespread among the general population.
+   - The intricate and uniform nature of the seals suggests that those who could read and write were specially trained.
+
+3. **Symbolic Literacy**:
+   - Another perspective is that the script may have had a symbolic or ritualistic function rather than being used for detailed record-keeping or literature.
+   - If this is the case, "literacy" in the conventional sense may not have been widespread.
+
+### Conclusion
+
+Given the current evidence, it is challenging to definitively state whether literacy was widespread during the Harappan period. The use of a script across various contexts indicates that some form of literacy existed, likely among specific groups involved in administration, trade, or ritual activities. However, without a clear understanding of the script and its uses, the extent of literacy among the general population remains uncertain. The Harappan Civilization's sophisticated urban planning and standardized production suggest an organized society, which could imply a level of literacy sufficient for administrative purposes, but it is not clear if this extended to widespread literacy as seen in later civilizations.
+
+---
+
+## What are some of the present day methods used for long-distance exchange of goods? What are their advantages and problems?
+Long-distance exchange of goods in the present day relies on various methods, each with its own advantages and problems. These methods include air transport, sea transport, rail transport, and road transport. Here's an overview of each:
+
+### 1. Air Transport
+
+**Advantages**:
+- **Speed**: Air transport is the fastest method for moving goods over long distances, making it ideal for perishable items and urgent shipments.
+- **Global Reach**: Airports are located worldwide, allowing access to remote areas and global markets.
+- **Reliability**: Scheduled flights provide predictable transit times and fewer delays compared to other modes.
+
+**Problems**:
+- **Cost**: Air transport is the most expensive mode of shipping, which can be prohibitive for low-value or bulk goods.
+- **Capacity**: Aircraft have limited cargo capacity compared to ships or trains, making them less suitable for large or heavy shipments.
+- **Environmental Impact**: Air transport has a high carbon footprint, contributing significantly to greenhouse gas emissions.
+
+### 2. Sea Transport
+
+**Advantages**:
+- **Cost-Effectiveness**: Sea transport is the most economical for bulk and heavy goods, with lower costs per unit of weight compared to other modes.
+- **Capacity**: Ships can carry large volumes of cargo, including containers, bulk commodities, and oversized items.
+- **Energy Efficiency**: Per ton-mile, sea transport is more fuel-efficient than air or road transport, reducing environmental impact.
+
+**Problems**:
+- **Speed**: Sea transport is much slower than air transport, making it unsuitable for time-sensitive goods.
+- **Port Limitations**: Ships are dependent on ports, which may have limitations in terms of size, capacity, and infrastructure.
+- **Risk of Delays**: Weather conditions, port congestion, and customs procedures can cause delays.
+
+### 3. Rail Transport
+
+**Advantages**:
+- **Cost-Effectiveness**: Rail transport is cheaper than air and often more economical than road transport for long distances.
+- **Capacity**: Trains can carry large quantities of goods, including heavy and bulky items.
+- **Energy Efficiency**: Rail transport is more energy-efficient and environmentally friendly compared to road and air transport.
+
+**Problems**:
+- **Infrastructure**: Rail networks are limited to areas with established tracks, and not all regions have adequate rail infrastructure.
+- **Flexibility**: Rail transport lacks the flexibility of road transport, as it is confined to fixed routes and schedules.
+- **Transshipment**: Goods often need to be transferred to trucks for final delivery, adding complexity and potential delays.
+
+### 4. Road Transport
+
+**Advantages**:
+- **Flexibility**: Road transport offers door-to-door service and can access remote areas without the need for additional transshipment.
+- **Speed for Short Distances**: For short to medium distances, road transport can be faster than rail or sea transport due to fewer handling requirements.
+- **Versatility**: Trucks can carry a wide variety of goods, including perishable items in refrigerated vehicles.
+
+**Problems**:
+- **Cost for Long Distances**: Over long distances, road transport can become expensive due to fuel, labor, and maintenance costs.
+- **Environmental Impact**: Road transport has a higher carbon footprint compared to rail and sea transport.
+- **Traffic and Infrastructure**: Road transport is subject to traffic congestion, road conditions, and infrastructure limitations.
+
+### Emerging Methods and Technologies
+
+1. **Drones**:
+   - **Advantages**: Fast delivery for small packages, particularly in remote or hard-to-reach areas.
+   - **Problems**: Limited payload capacity, regulatory challenges, and weather dependency.
+
+2. **Hyperloop**:
+   - **Advantages**: Potential for high-speed transport overland, reducing transit times significantly.
+   - **Problems**: High initial infrastructure costs and technological challenges in implementation.
+
+3. **Autonomous Vehicles**:
+   - **Advantages**: Reduced labor costs, increased efficiency, and potential for 24/7 operation.
+   - **Problems**: Regulatory and safety concerns, technological readiness, and public acceptance.
+
+### Conclusion
+
+Each method of long-distance exchange of goods has its own set of advantages and challenges. The choice of method depends on factors such as cost, speed, capacity, environmental impact, and the nature of the goods being transported. Often, a combination of these methods, known as intermodal transport, is used to optimize the supply chain and balance the strengths and weaknesses of each mode.
+
+---
+
+# Weights
+- Exchanges were regulated by a precise system of weights, usually made of a stone called chert and generally cubical with no markings.
+- The lower denominations of weights are binary(1,2,4,8,16,32, etc up to 12,800).
+- The higher denomination followed the decimal system.
+- The smaller weights were probably used for weighing jewellary and beads.
+- Metal scale-pans have also been found.
+
+# Ancient Authority
