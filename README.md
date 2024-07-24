@@ -409,3 +409,21 @@ In conclusion, the categorization of Harappan stone artifacts as utilitarian or 
 ---
 
 # Strategies for producing materials
+- Terracotta toy models of bullock carts suggest that this was one important means of transporting goods and people across land routes.
+- Riverine routes along the Indus and its tributaries, as well as coastal routes were also probably used.
+
+# Materials from the subcontinent and beyond
+- The harappans procured materials for craft production in various ways.
+- Established settlements such as Nageshwar and Balakot in areas where shell was available.
+- Shortugai (Afghanistan), best source of lapis lazuli, a blue stone was found.
+- Lothal was a near source of carnelian (from baruch (Gujarat)).
+- Steatite found in (South Rajasthan and North Gujarat).
+- Metal (from Rajasthan).
+- Khetri region of Rajasthan found copper.
+- South India (Gold).
+- There is evidence of the Khetri area for what archeologists call the Ganeshwar-Joedhpura Culture, with its distinctive non-Harappan pottery and an unusual wealth of copper objects. **It is possible that the inhabitants of this region supplied copper to the Harappans.**
+
+# Contact with distinct lands
+
+
+ 
