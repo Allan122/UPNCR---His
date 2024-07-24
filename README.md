@@ -424,6 +424,19 @@ In conclusion, the categorization of Harappan stone artifacts as utilitarian or 
 - There is evidence of the Khetri area for what archeologists call the Ganeshwar-Joedhpura Culture, with its distinctive non-Harappan pottery and an unusual wealth of copper objects. **It is possible that the inhabitants of this region supplied copper to the Harappans.**
 
 # Contact with distinct lands
+- Copper was probably brought from Oman on the south-eastern tip of the Arabian peninsula.
+- Chemical analysis have shown that both Omani and Harappan artefacts have traces of Nickel, suggesting a common origin.
+- A Large harappan jar with a thick layer of black clay has been found at omani sites.
+- Such thick coatings prevent the percolation of liquids. Harappans exchanges these vessels for Omani copper.
+- Mesopotamian texts dated to 3rd millennium BCE refer to copper coming from a region called Magan(Oman).
+- Mestopotamian sites copper also contained traces of Nickel.
+- Dilmun(Island of Bahrain), Magan and Meluhha, possibly the Harappan region.
+- Products from Meluha are Carnelian, Lapis Lazuli, copper, gold and varieties of wood.
+- A mesopotamian myth says about Meluha as Haja-Bird - Peacock.
+- Communication with Oman, Bahrain or Mesopotamia was by sea.
+- Mesopotamian texts refer to Meluhha as a land of seafarers. We can find depictions of ships and boats on seals.
+
+# Seals, Script, Weights
 
 
  
